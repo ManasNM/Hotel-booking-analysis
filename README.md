@@ -1,4 +1,4 @@
-###Hotel Booking Data Analysis
+#Hotel Booking Data Analysis
 
 Description:
 In this project, we analyzed the Hotel Booking dataset to understand booking patterns, customer preferences, and potential business opportunities. The dataset includes information on hotel types, booking lead times, cancellation rates, and customer demographics, among others. Our objective was to find insights that can improve customer satisfaction and optimize booking strategies.
